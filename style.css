@@ -117,7 +117,7 @@ body, html {
   font-weight: 400;
 }
 
-/*Responsiveness stlying for various screens*/
+/*Responsiveness stlying for various screens below*/
 @media screen and (max-width: 1370px) {
   .main-wrapper .content-wrapper {
     width: 70%;
